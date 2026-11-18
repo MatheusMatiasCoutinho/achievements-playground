@@ -10,3 +10,4 @@ Playground para conquistas do GitHub
 - PR 7
 - PR 8
 - PR 9
+- PR 10
